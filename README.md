@@ -6,7 +6,11 @@ This contains everything you need to build the dbgannon/juliacloud2 container.  
 
 There are three examples here
 
-1.  
+1.  distributed-demo.ipynb is the notebook that is the basic demo of distrubed computing in julia.   it also contains the channel demo.
+
+2.  azure-blob.ipynb.   This is  demo of using julia to manage text files and build dictionaries.
+
+3.  
 
 
 
