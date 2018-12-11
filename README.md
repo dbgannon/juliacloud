@@ -10,7 +10,7 @@ There are three examples here
 
 2.  azure-blob.ipynb.   This is  demo of using julia to manage text files and build dictionaries.
 
-3.  
+3.  distrib-table-fill.ipynb.   This examples show how to use julia to work with an azure web service.   in this case it is the simple table service.
 
 
 
